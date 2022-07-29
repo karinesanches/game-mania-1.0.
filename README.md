@@ -1,1 +1,1 @@
-# game-mania-1.0.
+# game-mania
